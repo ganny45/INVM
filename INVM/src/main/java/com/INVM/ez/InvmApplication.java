@@ -1,13 +1,13 @@
-package com.retail.INVM;
+package com.INVM.ez;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class InventoryManagementApplication {
+public class InvmApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InventoryManagementApplication.class, args);
+		SpringApplication.run(InvmApplication.class, args);
 	}
 
 }

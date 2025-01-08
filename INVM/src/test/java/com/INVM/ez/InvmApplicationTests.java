@@ -1,10 +1,10 @@
-package com.retail.INVM;
+package com.INVM.ez;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InventoryManagementApplicationTests {
+class InvmApplicationTests {
 
 	@Test
 	void contextLoads() {
